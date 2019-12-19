@@ -1,0 +1,4 @@
+django
+scrapy
+scrapyd
+python-scrapyd-api
