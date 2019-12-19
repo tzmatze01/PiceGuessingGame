@@ -1,1 +1,1 @@
-# PiceGuessingGame
+# PriceGuessingGame
